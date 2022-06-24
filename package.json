@@ -1,6 +1,6 @@
 {
   "name": "@sloikaxyz/erc721-metadata-ajv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A reusable ERC721 metadata schema for AJV",
   "author": "Arseniy Ivanov <ai@sloika.xyz>",
   "repository": "https://github.com/sloikaxyz/erc721-metadata-ajv",
