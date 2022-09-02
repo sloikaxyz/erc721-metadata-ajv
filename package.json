@@ -50,7 +50,7 @@
     "ajv": "^8.11.0",
     "ajv-formats": "^2.1.1",
     "esbuild": "^0.14.54",
-    "eslint": "^8.21.0",
+    "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1",
