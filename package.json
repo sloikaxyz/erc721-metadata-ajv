@@ -49,7 +49,7 @@
     "@typescript-eslint/parser": "^5.42.0",
     "ajv": "^8.11.2",
     "ajv-formats": "^2.1.1",
-    "esbuild": "^0.15.12",
+    "esbuild": "^0.15.15",
     "eslint": "^8.27.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
